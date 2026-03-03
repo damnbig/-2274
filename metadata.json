@@ -1,0 +1,5 @@
+{
+  "name": "四川旅游攻略地图",
+  "description": "一个用于规划四川旅游路线的交互式地图应用，支持查看节点攻略和绘制自定义路线。",
+  "requestFramePermissions": []
+}
